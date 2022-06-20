@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/spacbusd_website/static/css/main.073c9b0a.css",
-    "main.js": "/spacbusd_website/static/js/main.182b50f6.js",
-    "static/js/787.fa907312.chunk.js": "/spacbusd_website/static/js/787.fa907312.chunk.js",
-    "index.html": "/spacbusd_website/index.html",
-    "static/media/logo.svg": "/spacbusd_website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "main.073c9b0a.css.map": "/spacbusd_website/static/css/main.073c9b0a.css.map",
-    "main.182b50f6.js.map": "/spacbusd_website/static/js/main.182b50f6.js.map",
-    "787.fa907312.chunk.js.map": "/spacbusd_website/static/js/787.fa907312.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.c3a1b857.js",
+    "static/js/787.fa907312.chunk.js": "/static/js/787.fa907312.chunk.js",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.c3a1b857.js.map": "/static/js/main.c3a1b857.js.map",
+    "787.fa907312.chunk.js.map": "/static/js/787.fa907312.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.182b50f6.js"
+    "static/js/main.c3a1b857.js"
   ]
 }
